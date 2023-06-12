@@ -15,4 +15,4 @@ Data : gambar yang digunakan terdapat di folder gambar.
 Referensi : https://youtu.be/SOLNS4mXTD0
 
 Hasil program:
-![alt text](?raw=true)
+![alt text](https://github.com/akgeninov/Deep-Learning/blob/main/hasil.jpg?raw=true)
