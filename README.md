@@ -2,9 +2,14 @@
 Program Klasifikasi Gambar Bola Menggunakan Deep Learning
 
 Kelas: Kecerdasan Buatan E081
+
 Dosen pengampu: [Basuki Rahmat](https://github.com/bsrahmat)
 
 [UPN Veteran Jawa Timur](https://www.upnjatim.ac.id/)
+
+
+
+
 
 
 Nama anggota kelompok:
