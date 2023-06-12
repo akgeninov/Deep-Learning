@@ -12,6 +12,7 @@ Nama anggota kelompok:
 2. Richard Petrus Haposan Siagian (21081010250)
 
 Data : gambar yang digunakan terdapat di folder gambar.
+
 Referensi : https://youtu.be/SOLNS4mXTD0
 
 Hasil program:
